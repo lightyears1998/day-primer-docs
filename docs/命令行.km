@@ -1,0 +1,30 @@
+{
+    "root": {
+        "data": {
+            "id": "by8ihrxlmyw0",
+            "created": 1573012781854,
+            "text": "命令行"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "by8ii4e42c00",
+                    "created": 1573012808974,
+                    "text": "backup"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "by8iibrzyg00",
+                    "created": 1573012825051,
+                    "text": "show-storage"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

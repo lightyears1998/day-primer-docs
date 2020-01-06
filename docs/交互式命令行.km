@@ -1,0 +1,114 @@
+{
+    "root": {
+        "data": {
+            "id": "by8i8h6if540",
+            "created": 1573012053171,
+            "text": "交互式命令行"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "by8i8m0zgx40",
+                    "created": 1573012063720,
+                    "text": "目标"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "by8i9yfmuv40",
+                            "created": 1573012169092,
+                            "text": "浏览"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "by8ia1hawao0",
+                            "created": 1573012175723,
+                            "text": "新增"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "by8i8xjbqu80",
+                    "created": 1573012088774,
+                    "text": "行动"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "by8ia40i1u00",
+                            "created": 1573012181237,
+                            "text": "浏览"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "by8ia6ppp4w0",
+                            "created": 1573012187115,
+                            "text": "新增"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "by8i91a9of40",
+                    "created": 1573012096933,
+                    "text": "统计"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "by8iet51e740",
+                            "created": 1573012549388,
+                            "text": "日记"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "by8iext44ko0",
+                                    "created": 1573012559551,
+                                    "text": "晨间日记"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "by8if4ih3eg0",
+                                    "created": 1573012574145,
+                                    "text": "晚间日记"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "by8igbwosyo0",
+                                    "created": 1573012668606,
+                                    "text": "自定义日记"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "by8i8ngpzds0",
+                    "created": 1573012066849,
+                    "text": "退出"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
