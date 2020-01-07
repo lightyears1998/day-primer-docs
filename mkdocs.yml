@@ -9,8 +9,8 @@ repo_url: 'https://github.com/lightyears1998/phase-docs'
 theme:
   name: 'material'
   language: 'zh'
-  logo: 'images/logo.png'
-  favicon: 'images/logo.png'
+  logo: 'assets/logo.png'
+  favicon: 'assets/logo.png'
   palette:
     primary: 'blue'
     accent: 'red'
