@@ -11,6 +11,9 @@ theme:
   language: 'zh'
   logo: 'images/logo.png'
   favicon: 'images/logo.png'
+  palette:
+    primary: 'blue'
+    accent: 'red'
   font:
     text: 'Source Han Serif'
     code: 'Source Code Pro'
