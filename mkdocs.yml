@@ -1,4 +1,4 @@
-site_name: Phase Documentation
+site_name: ‘Phase文档'
 site_description: 'Phase的文档'
 site_author: 'lightyears1998'
 site_url: 'https://lightyears1998.github.io/phase-docs/'
@@ -8,10 +8,12 @@ repo_url: 'https://github.com/lightyears1998/phase-docs'
 
 theme:
   name: 'material'
-  language: zh
+  language: 'zh'
+  logo: 'images/logo.png'
+  favicon: 'images/logo.png'
   font:
-    text: Source Han Serif
-    code: Source Code Pro
+    text: 'Source Han Serif'
+    code: 'Source Code Pro'
 
 plugins:
   - search
