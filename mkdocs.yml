@@ -15,7 +15,6 @@ theme:
     primary: 'blue'
     accent: 'red'
   font:
-    text: 'Source Han Serif'
     code: 'Source Code Pro'
 
 plugins:
