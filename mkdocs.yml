@@ -12,10 +12,11 @@ theme:
   logo: 'assets/logo.png'
   favicon: 'assets/logo.png'
   palette:
-    primary: '#7b8dc7'
-    accent: '#ec6760'
+    primary: 'indigo'
+    accent: 'deep orange'
   font:
     code: 'Source Code Pro'
+    text: 'Noto Sans SC'
 
 markdown_extensions:
   - admonition
