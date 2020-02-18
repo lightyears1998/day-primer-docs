@@ -12,8 +12,8 @@ theme:
   logo: 'assets/logo.png'
   favicon: 'assets/logo.png'
   palette:
-    primary: 'blue'
-    accent: 'red'
+    primary: '#7b8dc7'
+    accent: '#ec6760'
   font:
     code: 'Source Code Pro'
 
