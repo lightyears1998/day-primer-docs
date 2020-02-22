@@ -18,7 +18,7 @@ jobs:
       uses: actions/cache@v1
       with:
         path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('.github/workflows/**.yml') }}
+        key: ${{ runner.os }}-pip-${{ hashFiles('.github/workflows/build-site.yml') }}
         restore-keys: |
           ${{ runner.os }}-pip-
     - name: Install MkDocs
