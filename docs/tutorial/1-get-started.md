@@ -39,4 +39,4 @@ DayPrimer是一款将个人的时间管理经验高度整合的工具。它需�
 
 如果您认同DayPrimer的哲学，请您坚持进行以上三个阶段。两个星期后，您的习惯就能形成。
 
-您可能想继续了解DayPrimer的更多功能，比如[数据备份和导出](features/export.md)。
+您可能想继续了解DayPrimer的更多功能，比如[数据备份和导出](../features/export.md)。
