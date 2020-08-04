@@ -1,9 +1,9 @@
 # 开发进度
 
-## Milestone 1: 2020.7.30 (1 days)
+## 2020.7.30 ~ 8.4 (M1)
 
-- `day-primer-core` 在同一个项目内使用 KOA 和 Commander 支持 API 端点和命令行界面。
-- `day-primer-core` 支持创建用户和用户登陆，使用凭证进行鉴权；用户登陆支持本地和远程方式。
+- `core` 使用 KOA 和 Commander 支持 API 端点。
+- `cli`, `core`, `web` 支持创建用户和用户登陆，使用凭证进行鉴权；用户登陆支持本地和远程方式。
 
 ## 2020.7.30
 
