@@ -18,7 +18,7 @@
 
 ## 移动版本
 
-- [Android](https://github.com/lightyears1998/day-primer-mobile) 使用 Java 语言编写的 Android 版本。
+- [Android](https://github.com/lightyears1998/day-primer-android) 使用 Java 语言编写的 Android 版本。
 
 ## 桌面版
 
