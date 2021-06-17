@@ -14,7 +14,7 @@
 
 ## 命令行版本
 
-- [基于 Node.js 的跨平台命令行](https://github.com/lightyears1998/day-primer-cli)
+- [命令行](https://github.com/lightyears1998/day-primer-cli) 基于 Node.js 的跨平台命令行。
 
 ## 移动版本
 
