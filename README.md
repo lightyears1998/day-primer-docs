@@ -1,12 +1,25 @@
 # DayPrimer Documentation
 
-![DayPrimer 使用敏捷开发](https://img.shields.io/badge/-%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91-blueviolet)
+![DayPrimer 进行敏捷开发](https://img.shields.io/badge/-%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91-blueviolet)
 
-请访问下面的链接以获取 DayPrimer 的文档和源代码：
+## 文档和开发日志
 
-- DayPrimer 文档：<https://lightyears1998.github.io/day-primer-docs>
-- DayPrimer 开发日志：<https://github.com/lightyears1998/day-primer-docs/blob/master/roadmap.md>
-- DayPrimer 核心逻辑：<https://github.com/lightyears1998/day-primer-core>
-- DayPrimer 命令行版：<https://github.com/lightyears1998/day-primer-cli>
-- DayPrimer 桌面版：<https://github.com/lightyears1998/day-primer-desktop>
-- DayPrimer 移动版：<https://github.com/lightyears1998/day-primer-mobile>
+- [文档](https://lightyears1998.github.io/day-primer-docs)
+- [开发日志](https://lightyears1998.github.io/day-primer-docs/roadmap)
+
+## 网页版
+
+- [服务器端](https://github.com/lightyears1998/day-primer-server) 基于 Node.js 的数据服务器。
+- [网页端](https://github.com/lightyears1998/day-primer-web) 基于 React 的前端。
+
+## 命令行版本
+
+- [基于 Node.js 的跨平台命令行](https://github.com/lightyears1998/day-primer-cli)
+
+## 移动版本
+
+- [Android](https://github.com/lightyears1998/day-primer-mobile) 使用 Java 语言编写的 Android 版本。
+
+## 桌面版
+
+待计划。
