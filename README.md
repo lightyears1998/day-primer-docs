@@ -1,4 +1,4 @@
-# DayPrimer Documentation
+# DayPrimer
 
 ![DayPrimer 进行敏捷开发](https://img.shields.io/badge/-%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91-blueviolet)
 
