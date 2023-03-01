@@ -2,6 +2,12 @@
 
 ## α 开发阶段
 
+### `0.1.x`
+
+- server 采用较稳定的 GraphQL 和 TypeORM 实践方式。
+- web 和 android 实现日程、项目、行动和日记的 CRUD。
+- 设备与服务器的数据同步算法采用全量传输同步方式。
+
 ### 2021.06.17
 
 - day-primer-mobile 更名为 day-primer-android，采用 Java 语言开发。
@@ -17,7 +23,7 @@
 
 ## 原始设计阶段
 
-### 2020.7.30 ~ 8.4 (M1)
+### 2020.7.30 `M1`
 
 - `core` 使用 KOA 和 Commander 支持 API 端点。
 - `cli`, `core`, `web` 支持创建用户和用户登陆，使用凭证进行鉴权；用户登陆支持本地和远程方式。
